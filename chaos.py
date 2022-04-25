@@ -1,4 +1,3 @@
-# report03 Ibuki Yoshijima
 import math
 import numpy as np
 
